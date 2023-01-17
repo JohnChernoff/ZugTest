@@ -5,5 +5,6 @@ public class ZugTest {
         System.out.println("Argh");
         System.out.println("Test");
         System.out.println("Whee");
+        System.out.println("Four");
     }
 }
